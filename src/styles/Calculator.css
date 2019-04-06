@@ -1,0 +1,9 @@
+.calculatorContainer {
+  background: #3a3d50;
+  min-height: 400px;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  margin: 10px;
+};

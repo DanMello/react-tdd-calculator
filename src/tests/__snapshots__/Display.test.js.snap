@@ -2,8 +2,8 @@
 
 exports[`Renders correctly 1`] = `
 <div
-  className="welcome"
+  className="displayContainer"
 >
-  Welcome to your app.
+  
 </div>
 `;

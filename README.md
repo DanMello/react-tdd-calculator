@@ -1,2 +1,2 @@
 # react-tdd-calculator
-A calculator made with react using test-driven-development.
+A calculator made with react using test-driven development.

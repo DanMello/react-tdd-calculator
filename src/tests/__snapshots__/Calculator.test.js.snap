@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders correctly 1`] = `
+<div
+  className="calculatorContainer"
+>
+  <div
+    className="displayContainer"
+  >
+    0
+  </div>
+  <div>
+    Hello
+  </div>
+</div>
+`;

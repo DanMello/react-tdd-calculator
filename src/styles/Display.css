@@ -1,0 +1,13 @@
+.displayContainer {
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: white;
+  display: flex;
+  justify-content: flex-end;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  font-size: 60px;
+  font-family: sans-serif;
+};
